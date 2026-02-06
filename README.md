@@ -1,9 +1,9 @@
 # StrategyLens AI | Research Assistant Task
 
-This repository contains my solution for the **Research Assistant - Product Ideation & Frontend Task**[cite: 1, 4]. It is a high-fidelity React application designed to help strategy consultants navigate information overload through AI-driven synthesis and scenario simulation.
+This repository contains my solution for the **Research Assistant - Product Ideation & Frontend Task**. It is a high-fidelity React application designed to help strategy consultants navigate information overload through AI-driven synthesis and scenario simulation.
 
 ## Problem Statement & Target Persona
-Management consultants and strategy professionals often face "information paralysis" when reviewing documents that exceed 500 pages[cite: 5]. My solution, **StrategyLens AI**, focuses on:
+Management consultants and strategy professionals often face "information paralysis" when reviewing documents that exceed 500 pages. My solution, **StrategyLens AI**, focuses on:
 * **Target Users**: Strategy Consultants, Private Equity Associates, and Business Analysts.
 * **Core Problem**: The inability to quickly extract actionable insights and simulate "what-if" scenarios from massive datasets.
 
